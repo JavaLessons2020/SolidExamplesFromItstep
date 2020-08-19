@@ -1,4 +1,4 @@
-package ua.step.example.solid.model3.L;
+package ua.step.example.solid.model3.L.ex1;
 
 /**
  * Класс прямоугольника - содержит длинны сторон 
@@ -26,4 +26,12 @@ public class Rectangle {
 	public int getArea() {
 		return this.length * this.width;
 	}
+
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "length=" + length +
+                ", width=" + width +
+                '}';
+    }
 }

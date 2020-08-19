@@ -1,4 +1,4 @@
-package ua.step.example.solid.model3.L;
+package ua.step.example.solid.model3.L.ex1;
 
 public class RectangleColor extends Rectangle{
     String color;

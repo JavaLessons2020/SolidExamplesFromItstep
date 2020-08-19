@@ -10,8 +10,8 @@ public class Task05
 {
     public static void main(String[] args)
     {
-        Animal animal = new Cat();
-        go(animal);
+//        Animal animal = new Cat();
+//        go(animal);
 
     }
 
